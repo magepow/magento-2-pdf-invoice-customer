@@ -38,16 +38,16 @@ php bin/magento setup:static-content:deploy -f
 
 ### Step 2: User guide
   #### Key features of Magento 2 Pdf Invoice Frontend Extension:
-  * Help customers can download detailed and complete invoice pdf file like in admin..
+  * Help customers can download detailed and complete invoice pdf file like in admin.
 
-  ### 2.1. User guide
+  2.1. User guide
     When login site and go to My Account > My Order if as nomal will show print order button and when install module PdfInvoiceFrontend done will there is an extra print invoice button.
-    ![Image of magento store front](https://github.com/magepow/magento2-pdf-invoice-frontend/blob/master/media/print_invoice_button.png)
+    ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/print_invoice_button.png)
     When you click the print button, the invoice will automatically download the corresponding pdf file of the customer.
-    ![Image of magento store front](https://github.com/magepow/magento2-pdf-invoice-frontend/blob/master/media/download_print_invoice.png)
-  ### 2.2. Result
+    ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/download_pdf_invoice.png)
+  2.2. Result
    Result of pdf invoice as image below.
-   ![Image of magento store front](https://github.com/magepow/magento2-pdfinvoicefrontend/blob/master/media/pdf.png)
+   ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)
 
  ## Donation
 
