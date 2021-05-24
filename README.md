@@ -6,7 +6,7 @@
 
 ## Magento 2 Pdf Invoice Frontend (Magepow Pdf Invoice Frontend extension Free)
 
-**Infinite scroll** Pdf invoice frontend for magento 2 help customers can download detailed pdf invoice just like when shop owner in admin..
+**Pdf Invoice Frontend** Pdf invoice frontend for magento 2 help customers can download detailed pdf invoice just like when shop owner in admin..
 
 [![Latest Stable Version](https://poser.pugx.org/magepow/pdfinvoicefrontend/v/stable)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
 [![Total Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/downloads)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
@@ -26,7 +26,7 @@ Before you continue, ensure you meet the following requirements:
   * You are using a Linux or Mac OS machine. Windows is not currently supported.
   Install magento2-instagram extension
 
-### Step 1 : Download Magento 2 Infinitescroll Extension
+### Step 1 : Download Magento 2 Pdf Invoice Frontend Extension
 
  #### Install via composer (recommend)
 Run the following commands in Magento 2 root folder:
