@@ -2,11 +2,11 @@
 [![Latest Stable Version](https://poser.pugx.org/magepow/pdfinvoicefrontend/v/stable)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
 [![Total Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/downloads)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
 [![Daily Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/d/daily)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
-# Magento 2 Pdf Invoice Frontend
+# Magento 2 Pdf Invoice Customer
 
-## Magento 2 Pdf Invoice Frontend (Magepow Pdf Invoice Frontend extension Free)
+## Magento 2 Pdf Invoice Customer (Magepow Pdf Invoice Frontend extension Free)
 
-**Pdf Invoice Frontend** Pdf invoice frontend for magento 2 help customers can download detailed pdf invoice just like when shop owner in admin..
+**Pdf Invoice Customer** Pdf invoice frontend for magento 2 help customers can download detailed pdf invoice just like when shop owner in admin..
 
 [![Latest Stable Version](https://poser.pugx.org/magepow/pdfinvoicefrontend/v/stable)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
 [![Total Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/downloads)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
