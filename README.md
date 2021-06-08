@@ -2,7 +2,7 @@
 
 ## Magento 2 Pdf Invoice Customer (Magepow Pdf Invoice Frontend extension Free)
 
-[**Module PDF Invoice Frontend Customer**](https://magepow.com/magento-2-infinite-scroll-extension.html) make it possible for customers to download detailed PDF invoices just like when the store owner enters the admin.
+[**Module PDF Invoice Frontend Customer**](https://magepow.com/magento-2-pdf-invoice-frontend.html) make it possible for customers to download detailed PDF invoices just like when the store owner enters the admin.
 
 ### Description
 
@@ -34,7 +34,7 @@ Create convenience for customers and reputation on the website. Customers can do
 
 **See more information**:
 
-- [Detail](https://magepow.com/magento-2-infinite-scroll-extension.html)
+- [Detail](https://magepow.com/magento-2-pdf-invoice-frontend.html)
 
 - [Documentation](https://docs.alothemes.com/m2/extension/pdfinvoicefrontend/)
 
@@ -68,7 +68,7 @@ php bin/magento setup:static-content:deploy -f
     ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/download_pdf_invoice.png)
   2.2. Result
    Result of pdf invoice as image below.
-   [![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)](https://magepow.com/magento-2-infinite-scroll-extension.html)
+   [![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)](https://magepow.com/magento-2-pdf-invoice-frontend.html)
 
  ## Donation
 
