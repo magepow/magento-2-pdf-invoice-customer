@@ -1,15 +1,36 @@
 
-[![Latest Stable Version](https://poser.pugx.org/magepow/pdfinvoicefrontend/v/stable)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
-[![Total Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/downloads)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
-[![Daily Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/d/daily)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
-# Magento 2 Pdf Invoice Customer
 
 ## Magento 2 Pdf Invoice Customer (Magepow Pdf Invoice Frontend extension Free)
 
-**Pdf Invoice Customer** Pdf invoice frontend for magento 2 help customers can download detailed pdf invoice just like when shop owner in admin..
+[**Module PDF Invoice Frontend Customer**](https://magepow.com/magento-2-infinite-scroll-extension.html) make it possible for customers to download detailed PDF invoices just like when the store owner enters the admin.
+
+### Description
+
+Optimal e-invoicing and checkout functionality is essential for all e-commerce websites. And you can make the process of creating and downloading invoices to your customers' browsers simple with the PDF invoice frontend plugin.
+
+Create convenience for customers and reputation on the website. Customers can download, save the file and format of the e-invoice right at the frontend. This can help businesses save up to 90% of time and manpower in website administration.
+
+### Features
+
+- Help customers to download detailed and complete PDF invoice file as in admin
+
+- Show invoice print button next to print order button
+
+- Fill in the necessary information about your company in the PDF invoice
+
+- Attach invoices and transaction emails and download them easily
+
+- Easily customize the design of the invoice template
+
+- Store admin can preview PDF files before saving
+
+- Easy to customize
+
+- Suitable for all stores and languages
 
 [![Latest Stable Version](https://poser.pugx.org/magepow/pdfinvoicefrontend/v/stable)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
 [![Total Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/downloads)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
+[![Daily Downloads](https://poser.pugx.org/magepow/pdfinvoicefrontend/d/daily)](https://packagist.org/packages/magepow/pdfinvoicefrontend)
 
 **See more information**:
 
@@ -47,7 +68,7 @@ php bin/magento setup:static-content:deploy -f
     ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/download_pdf_invoice.png)
   2.2. Result
    Result of pdf invoice as image below.
-   ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)
+   [![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)](https://magepow.com/magento-2-infinite-scroll-extension.html)
 
  ## Donation
 
