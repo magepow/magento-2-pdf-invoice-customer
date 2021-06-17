@@ -65,7 +65,7 @@ php bin/magento setup:static-content:deploy -f
     When login site and go to My Account > My Order if as nomal will show print order button and when install module PdfInvoiceFrontend done will there is an extra print invoice button.
     ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/print_invoice_button.png)
     When you click the print button, the invoice will automatically download the corresponding pdf file of the customer.
-    ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/download_pdf_invoice.png)
+    ![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/invoice.png)
   2.2. Result
    Result of pdf invoice as image below.
    [![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)](https://magepow.com/magento-2-pdf-invoice-frontend.html)
