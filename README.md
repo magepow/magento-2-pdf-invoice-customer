@@ -2,7 +2,7 @@
 
 ## Magento 2 Pdf Invoice Customer (Magepow Pdf Invoice Frontend extension Free)
 
-[**Module PDF Invoice Frontend Customer**](https://magepow.com/magento-2-pdf-invoice-frontend.html) make it possible for customers to download detailed PDF invoices just like when the store owner enters the admin.
+[**Module PDF Invoice Frontend Customer**](https://magepow.net/magento-2-pdf-invoice-frontend.html) make it possible for customers to download detailed PDF invoices just like when the store owner enters the admin.
 
 ### Description
 
@@ -34,7 +34,7 @@ Create convenience for customers and reputation on the website. Customers can do
 
 **See more information**:
 
-- [Detail](https://magepow.com/magento-2-pdf-invoice-frontend.html)
+- [Detail](https://magepow.net/magento-2-pdf-invoice-frontend.html)
 
 - [Documentation](https://docs.alothemes.com/m2/extension/pdfinvoicefrontend/)
 
@@ -70,6 +70,9 @@ php bin/magento setup:static-content:deploy -f
    Result of pdf invoice as image below.
    [![Image of magento store front](https://github.com/magepow/magento-2-pdf-invoice-frontend/blob/master/media/pdf.png)](https://magepow.com/magento-2-pdf-invoice-frontend.html)
 
+### Buy it
+  [Buy it on Magepow](https://magepow.net/magento-2-pdf-invoice-frontend.html)
+
  ## Donation
 
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
@@ -77,45 +80,51 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/alopay)
 
       
-**[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
+**[Our Website](https://magepow.net)**
 
-* [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-order-notification.html)
+**[Our Magento 2 Extensions](https://magepow.net/extensions.html)**
 
-* [Magento 2 Categories Extension](https://magepow.com/magento-categories-extension.html)
+* [Magento 2 Recent Order Notification](https://magepow.net/magento-2-recent-order-notification.html)
 
-* [Magento 2 Sticky Cart](https://magepow.com/magento-sticky-cart.html)
+* [Magento 2 Categories Extension](https://magepow.net/magento-2-categories-extension.html)
 
-* [Magento 2 Ajax Contact](https://magepow.com/magento-ajax-contact-form.html)
+* [Magento 2 Sticky Cart](https://magepow.net/magento-sticky-add-to-cart.html)
 
-* [Magento 2 Lazy Load](https://magepow.com/magento-lazy-load.html)
+* [Magento 2 Lazy Load](https://magepow.net/magento-2-lazy-load-extension.html)
 
-* [Magento 2 Mutil Translate](https://magepow.com/magento-multi-translate.html)
+* [Magento 2 Lookbook Pin Products](https://magepow.net/lookbook-pin-products.html)
 
-* [Magento 2 Instagram Integration](https://magepow.com/magento-2-instagram.html)
+* [Magento 2 Ajax add to cart](https://magepow.net/magento-2-ajax-add-to-cart.html)
 
-* [Magento 2 Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
+* [Magento 2 Speed Optimizer](https://magepow.net/magento2-speed-optimizer.html)
 
-* [Magento 2 Product Slider](https://magepow.com/magento-product-slider.html)
+* [Magento 2 Quick Edit](https://magepow.net/magento-2-quick-edit.html)
 
-* [Magento 2 Product Banner](https://magepow.com/magento-2-banner-slider.html)
+* [Magento 2 Product Zoom](https://magepow.net/magento-2-product-zoom.html)
 
-**[Our Magento 2 services](https://magepow.com/magento-services.html)**
+* [Magento 2 Layered Navigation Advanced](https://magepow.net/magento-2-layered-navigation-advanced.html)
 
-* [PSD to Magento 2 Theme Conversion](https://alothemes.com/psd-to-magento-theme-conversion.html)
+* [Magento 2 Product Tags](https://magepow.net/magento-2-product-tags.html)
 
-* [Magento 2 Speed Optimization Service](https://magepow.com/magento-speed-optimization-service.html)
+* [Special Promotion for Magento 2](https://magepow.net/magento-2-special-promotion-extension.html)
 
-* [Magento 2 Security Patch Installation](https://magepow.com/magento-security-patch-installation.html)
+* [Magento 2 Size Chart](https://magepow.net/magento-2-size-chart.html)
 
-* [Magento 2 Website Maintenance Service](https://magepow.com/website-maintenance-service.html)
+* [Magento 2 Auto related products](https://magepow.net/magento-2-auto-related-products.html)
 
-* [Magento 2 Professional Installation Service](https://magepow.com/professional-installation-service.html)
+* [Magento 2 Sitemap Exclusion](https://magepow.net/magento-2-sitemap-exclusion.html)
 
-* [Magento 2 Upgrade Service](https://magepow.com/magento-upgrade-service.html)
+* [Magento 2 Mega Menu](https://magepow.net/magento-2-mega-menu.html)
 
-* [Magento 2 Customization Service](https://magepow.com/customization-service.html)
+* [Magento 2 Sitemap](https://magepow.net/magento-2-sitemap.html)
 
-* [Hire Magento 2 Developer](https://magepow.com/hire-magento-developer.html)
+* [Magento 2 Ajax Wishlist](https://magepow.net/magento-2-ajax-wishlist.html)
+
+* [Magento 2 PDF Invoice Frontend](https://magepow.net/magento-2-pdf-invoice-frontend.html)
+
+* [Magento 2 Bundle Pack](https://magepow.net/magento-2-bundle-product.html)
+
+* [Magento 2 Product Zoom 360](https://magepow.net/magento-2-product-zoom-360.html)
 
 **[Our Magento 2 Themes](https://alothemes.com/)**
 
